@@ -2,7 +2,7 @@
 
 This project is a **Full Stack Learning Management System (LMS)** built with **Next.js 15**, **MySQL**, **Prisma**, and **NextAuth**, designed to deliver seamless learning experiences through modern technologies.
 
-## [Demo](#)
+## [Demo](https://next-lms-liart.vercel.app/)
 
 ![Project Screenshot](https://raw.githubusercontent.com/abdulhai-rawan/lms/refs/heads/master/public/Screenshot%202024-12-02%20155320.png)
 
@@ -11,7 +11,7 @@ This project is a **Full Stack Learning Management System (LMS)** built with **N
 ## Credits
 
 **Name:** Antonio Erdeljac  
-**Video Tutorial:** [Watch here](#https://www.youtube.com/watch?v=Big_aFLmekI)
+**Video Tutorial:** [Watch here](https://www.youtube.com/watch?v=Big_aFLmekI)
 
 ---
 
